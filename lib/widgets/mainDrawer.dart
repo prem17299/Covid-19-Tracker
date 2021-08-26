@@ -225,7 +225,7 @@ Drawer buildDrawer(context, isLight, widget) {
                 width: 5,
               ),
               Text(
-                "© dnp",
+                "© Prem_Anand",
                 style: TextStyle(fontFamily: "Kayak", fontSize: 14),
               )
             ],
