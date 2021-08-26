@@ -184,7 +184,7 @@ Drawer buildDrawer(context, isLight, widget) {
                       applicationName: "Corona Radar\n",
                       applicationVersion: 'v1.0.0',
                       applicationLegalese:
-                          "This app tracks number of cases of corona across your Location and other countries worldwide.\n\nRepo: github.com/Devu06");
+                          "This app tracks number of cases of corona across your Location and other countries worldwide.\n\nRepo: github.com/prem17299");
                 },
                 child: Row(
                   children: <Widget>[
